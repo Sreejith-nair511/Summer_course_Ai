@@ -149,7 +149,7 @@ Copy
 Edit
 with open('tokenizer.pkl', 'rb') as f:
     tokenizer = pickle.load(f)
-📌 What does .pkl mean?
+ What does .pkl mean?
 .pkl is just the file extension used for files saved with pickle.
 
 Just like:
@@ -160,6 +160,6 @@ Just like:
 
 .pkl → pickled Python object
 
-🐷 Why is it called pickle?
-Because you're preserving an object for later, like how we preserve cucumbers as pickles. Kinda cute, right? 🥒😄
+ Why is it called pickle?
+Because you're preserving an object for later, like how we preserve cucumbers as pickles. 
 
